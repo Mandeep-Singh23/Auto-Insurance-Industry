@@ -2,3 +2,4 @@ nunmpy
 pandas
 sklearn
 matplotlib
+seaborn
